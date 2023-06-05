@@ -1,16 +1,32 @@
 # adopt_petz
 
-A new Flutter project.
+A simple app in flutter for adopting pets, with features like search, filter and view history of adopted pets.
 
-## Getting Started
+Used BLoC to manage the state.
 
-This project is a starting point for a Flutter application.
+Used SharedPreferences to persist data between app launches.
 
-A few resources to get you started if this is your first Flutter project:
+Used Google Sheets with SheetsGPT to generate sample data for the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Used Unsplash's Random image API to generate pet images
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo video
+Watch the demo video -
+
+https://drive.google.com/file/d/1JuImEMtyhyxvgqXGXqweG7TLdrfhiQfL/view?usp=sharing
+
+# Useful Links
+## Designed UI/UX using Figma
+Here's the Figma design link -
+
+https://www.figma.com/file/B4IXgLr7fRSZdWXRiNvA9s/Adopt-Petz?type=design&node-id=25%3A573&t=expnFA2P6Vl2XzaL-1
+
+## Hosted using Firebase Hosting
+Check the web app here -
+
+https://adopt-petz.web.app/
+
+## Android APK
+Download and test the app with this apk -
+
+https://drive.google.com/file/d/1gl5woxUNxUFU40CugnvEkojoXyBcA4cg/view?usp=drive_link
