@@ -10,11 +10,6 @@ Used Google Sheets with SheetsGPT to generate sample data for the app
 
 Used Unsplash's Random image API to generate pet images
 
-## Demo video
-Watch the demo video -
-
-https://drive.google.com/file/d/1JuImEMtyhyxvgqXGXqweG7TLdrfhiQfL/view?usp=sharing
-
 # Useful Links
 ## Designed UI/UX using Figma
 Here's the Figma design link -
